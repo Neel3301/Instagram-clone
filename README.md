@@ -15,12 +15,9 @@ This is a Flutter application built to mimic the functionality of Instagram, all
 - Search: Users can search for other users by username.
 ## Screenshots
 
-![App Screenshot](https://github.com/Neel3301/Instagram-clone/blob/main/assets/ss/1.jpg)
-![App Screenshot](https://github.com/Neel3301/Instagram-clone/blob/main/assets/ss/1.jpg)
-![App Screenshot](https://github.com/Neel3301/Instagram-clone/blob/main/assets/ss/3.jpg)
-![App Screenshot](https://github.com/Neel3301/Instagram-clone/blob/main/assets/ss/4.jpg)
-![App Screenshot](https://github.com/Neel3301/Instagram-clone/blob/main/assets/ss/5.jpg)
-![App Screenshot](https://github.com/Neel3301/Instagram-clone/blob/main/assets/ss/6.jpg)
+<img src="assets/ss/1.jpg" alt="Screenshot" width="400"/>  <img src="assets/ss/2.jpg" alt="Screenshot" width="400"/>
+<img src="assets/ss/3.jpg" alt="Screenshot" width="400"/>  <img src="assets/ss/4.jpg" alt="Screenshot" width="400"/>
+<img src="assets/ss/5.jpg" alt="Screenshot" width="400"/>  <img src="assets/ss/6.jpg" alt="Screenshot" width="400"/>
 
 
 ## Technologies Used
