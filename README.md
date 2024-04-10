@@ -31,7 +31,7 @@ This is a Flutter application built to mimic the functionality of Instagram, all
 Clone the repository:
 
 ```bash
-  git clone https://github.com/yourusername/instagram-clone.git
+  gh repo clone Neel3301/Instagram-clone
 ```
 
 Set up Firebase project and add google-services.json file to the android/app directory (for Android) and GoogleService-Info.plist file to the ios/Runner directory (for iOS).
